@@ -29,7 +29,7 @@ function addTitles (posts) {
     listElement.innerText = posts.title
     titleList.appendChild(listElement)
     
-    // testing for capturing IDs
+    //testing for capturing IDs
     // let spanElement = document.createElement("span")
     // spanElement.innerText = posts.id
     // divElement.appendChild(spanElement)
