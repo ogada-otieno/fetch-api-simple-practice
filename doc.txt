@@ -1,0 +1,20 @@
+Arrow functions - recap
+Fetch API - recap
+    - callback functions
+    - callback functions using arrow functions
+    - HTTP VERBS - [GET, POST, PUT, PATCH]
+    - Array Methods
+
+PROJECT CREATE A SIMPLE TODO APPLICATION
+
+Promise -
+    -> .then .catch
+    -> async/await
+
+-CONCEPTS
+    - HTML STRUCTURE
+    - STYLING USING CSS
+    - DOM MANIPULATION
+    - USE OF FETCH API - > GETTING TODOS
+    - CRUD OPERATIONS
+        - CREATE, READ, UPDATE, DELETE
